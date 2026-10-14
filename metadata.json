@@ -1,0 +1,6 @@
+{
+  "name": "FindBack",
+  "description": "Campus Lost & Found Recovery Portal. From lost to matched, verified, and returned.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
